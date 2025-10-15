@@ -15,7 +15,7 @@ public:
                     maxLen=max(maxLen,len);
                     while(nums[i]==1) i++;
                     i++;
-                    j++;
+                    flip--;
                 }
             }
         }
