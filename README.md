@@ -44,4 +44,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Kunal9122/leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 <!---LeetCode Topics End-->
