@@ -10,6 +10,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kunal9122/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kunal9122/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kunal9122/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -18,6 +19,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kunal9122/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kunal9122/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Binary Search
@@ -39,6 +41,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kunal9122/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
