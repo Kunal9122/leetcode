@@ -51,5 +51,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0585-investments-in-2016](https://github.com/Kunal9122/leetcode/tree/main/0585-investments-in-2016/) | Medium |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Kunal9122/leetcode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Kunal9122/leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 <!---LeetCode Topics End-->
