@@ -56,6 +56,7 @@
 | [0585-investments-in-2016](https://github.com/Kunal9122/leetcode/tree/main/0585-investments-in-2016/) | Medium |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Kunal9122/leetcode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0608-tree-node](https://github.com/Kunal9122/leetcode/tree/main/0608-tree-node/) | Medium |
+| [0626-exchange-seats](https://github.com/Kunal9122/leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Kunal9122/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Kunal9122/leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 <!---LeetCode Topics End-->
