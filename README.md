@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kunal9122/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Kunal9122/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2090-k-radius-subarray-averages](https://github.com/Kunal9122/leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kunal9122/leetcode/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 ## Sliding Window
@@ -14,6 +15,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kunal9122/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kunal9122/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Kunal9122/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kunal9122/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Kunal9122/leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -45,10 +47,12 @@
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kunal9122/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Kunal9122/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Database
 | Problem Name | Difficulty |
