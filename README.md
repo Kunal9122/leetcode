@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Kunal9122/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kunal9122/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Kunal9122/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -44,6 +45,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Kunal9122/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kunal9122/leetcode/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kunal9122/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0016-3sum-closest](https://github.com/Kunal9122/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kunal9122/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
