@@ -96,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kunal9122/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0077-combinations](https://github.com/Kunal9122/leetcode/tree/main/0077-combinations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
