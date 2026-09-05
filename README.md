@@ -128,4 +128,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0752-open-the-lock](https://github.com/Kunal9122/leetcode/tree/main/0752-open-the-lock/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Kunal9122/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Kunal9122/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Kunal9122/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
