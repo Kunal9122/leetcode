@@ -13,6 +13,7 @@
 | [0904-fruit-into-baskets](https://github.com/Kunal9122/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2090-k-radius-subarray-averages](https://github.com/Kunal9122/leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Kunal9122/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kunal9122/leetcode/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Kunal9122/leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Kunal9122/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kunal9122/leetcode/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -70,11 +72,13 @@
 | [0904-fruit-into-baskets](https://github.com/Kunal9122/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Kunal9122/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Kunal9122/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
