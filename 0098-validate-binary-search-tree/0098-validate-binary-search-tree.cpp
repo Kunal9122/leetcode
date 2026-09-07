@@ -31,8 +31,8 @@ public:
         }
         
         
-        if(root->left && root->left->val >= root->val) return false;
-        else if(root->right && root->right->val <= root->val) return false;
+        //if(root->left && root->left->val >= root->val) return false;
+        //else if(root->right && root->right->val <= root->val) return false;
         return helper(root->left) && helper(root->right);
     }
     bool isValidBST(TreeNode* root) {
