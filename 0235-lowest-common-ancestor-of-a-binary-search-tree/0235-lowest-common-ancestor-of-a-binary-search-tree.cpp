@@ -13,9 +13,9 @@ public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         int mini=min(p->val,q->val);
         int maxi=max(p->val,q->val);
-        if(root && root->val>=mini && root->val<=maxi) return root;
-        if(root && root->val<mini && root->val < maxi) return lowestCommonAncestor(root->right,p,q);
-        if(root && root->val>mini && root->val > maxi) return lowestCommonAncestor(root->left,p,q);
+        if(root && root->val <= maxi && root->val >= mini) return root;
+        else if(root && root->val > mini) return lowestCommonAncestor(root->left,p,q);
+        else if(root && root->val < mini) return lowestCommonAncestor(root->right,p,q);
         return root;
     }
 };
