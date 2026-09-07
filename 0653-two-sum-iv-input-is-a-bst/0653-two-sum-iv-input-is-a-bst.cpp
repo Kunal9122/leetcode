@@ -22,12 +22,12 @@ public:
             int v=n->val;
             if(mp.find(k-v)!=mp.end()){
                 c++;
+                return true;
             }
             mp[v]++;
             if(n->left) q.push(n->left);
             if(n->right) q.push(n->right);
         }
-        if(c>=1) return true;
-        else return false;
+        return false;
     }
 };
