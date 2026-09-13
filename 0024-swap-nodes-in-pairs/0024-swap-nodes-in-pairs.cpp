@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        stack<ListNode*>st;
+          stack<ListNode*>st;
         ListNode* temp=head;
         ListNode* temp1=new ListNode(0);
         head=temp1;
