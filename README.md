@@ -16,6 +16,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/Kunal9122/leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Kunal9122/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kunal9122/leetcode/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Kunal9122/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Kunal9122/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Kunal9122/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
