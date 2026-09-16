@@ -149,6 +149,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunal9122/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Kunal9122/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Search Tree
@@ -163,6 +164,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunal9122/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Kunal9122/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
@@ -171,15 +173,18 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunal9122/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunal9122/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunal9122/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
