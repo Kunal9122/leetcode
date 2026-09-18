@@ -47,6 +47,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Kunal9122/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kunal9122/leetcode/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -151,6 +152,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kunal9122/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Kunal9122/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunal9122/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Kunal9122/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -168,6 +170,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kunal9122/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Kunal9122/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunal9122/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Kunal9122/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -202,4 +205,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Kunal9122/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
