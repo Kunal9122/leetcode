@@ -73,6 +73,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kunal9122/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kunal9122/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0752-open-the-lock](https://github.com/Kunal9122/leetcode/tree/main/0752-open-the-lock/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Kunal9122/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -142,6 +143,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kunal9122/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0752-open-the-lock](https://github.com/Kunal9122/leetcode/tree/main/0752-open-the-lock/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Kunal9122/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -169,6 +172,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Kunal9122/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -178,6 +182,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunal9122/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
