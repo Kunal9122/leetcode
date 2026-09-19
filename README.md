@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Kunal9122/leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kunal9122/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kunal9122/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Kunal9122/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -70,6 +71,7 @@
 | [0012-integer-to-roman](https://github.com/Kunal9122/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Kunal9122/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kunal9122/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kunal9122/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kunal9122/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kunal9122/leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -149,6 +151,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kunal9122/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -167,6 +170,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kunal9122/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -209,4 +213,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Kunal9122/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
