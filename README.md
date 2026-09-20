@@ -8,6 +8,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kunal9122/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kunal9122/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0621-task-scheduler](https://github.com/Kunal9122/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kunal9122/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0752-open-the-lock](https://github.com/Kunal9122/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0896-monotonic-array](https://github.com/Kunal9122/leetcode/tree/main/0896-monotonic-array/) | Easy |
@@ -54,11 +55,13 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Kunal9122/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kunal9122/leetcode/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Kunal9122/leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0621-task-scheduler](https://github.com/Kunal9122/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Kunal9122/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kunal9122/leetcode/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
@@ -76,6 +79,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kunal9122/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kunal9122/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kunal9122/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/Kunal9122/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0752-open-the-lock](https://github.com/Kunal9122/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Kunal9122/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -87,6 +91,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Kunal9122/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kunal9122/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Kunal9122/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -231,4 +236,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/Kunal9122/leetcode/tree/main/0621-task-scheduler/) | Medium |
 <!---LeetCode Topics End-->
