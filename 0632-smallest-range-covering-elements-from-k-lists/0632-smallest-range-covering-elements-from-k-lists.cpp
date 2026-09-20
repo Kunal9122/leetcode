@@ -1,24 +1,26 @@
 class Solution {
 public:
-    typedef pair<int,pair<int,int>>pip;
+    typedef pair<int,pair<int,int>>p;
     vector<int> smallestRange(vector<vector<int>>& nums) {
-        priority_queue<pip,vector<pip>,greater<pip>>pq;
+        priority_queue<p,vector<p>,greater<p>>pq;
         int mx=INT_MIN;
         for(int i=0;i<nums.size();i++){
-            mx=max(nums[i][0],mx);
             pq.push({nums[i][0],{i,0}});
+            mx=max(mx,nums[i][0]);
         }
-        int mn=pq.top().first;
-        int s=mn,e=mx;
-        while(true){
-            int r=pq.top().second.first;
-            int c=pq.top().second.second;
+        int s=pq.top().first;
+        int e=mx;
+        int mn=s;
+        while(1){
+            int num=pq.top().first;
+            int row=pq.top().second.first;
+            int col=pq.top().second.second;
             pq.pop();
-            if(c==nums[r].size()-1) break;
-            pq.push({nums[r][c+1],{r,c+1}});
-            mx=max(mx,nums[r][c+1]);
+            if(nums[row].size() <= col+1) break;
+            pq.push({nums[row][col+1],{row,col+1}});
+            mx=max(mx,nums[row][col+1]);
             mn=pq.top().first;
-            if(mx-mn<e-s){
+            if(mx-mn < e-s){
                 s=mn;
                 e=mx;
             }
