@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/Kunal9122/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kunal9122/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal9122/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kunal9122/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0621-task-scheduler](https://github.com/Kunal9122/leetcode/tree/main/0621-task-scheduler/) | Medium |
@@ -146,6 +147,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kunal9122/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kunal9122/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0752-open-the-lock](https://github.com/Kunal9122/leetcode/tree/main/0752-open-the-lock/) | Medium |
@@ -202,6 +205,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kunal9122/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunal9122/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -247,5 +251,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal9122/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 <!---LeetCode Topics End-->
