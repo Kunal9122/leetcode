@@ -127,6 +127,7 @@
 | [0012-integer-to-roman](https://github.com/Kunal9122/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Kunal9122/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Kunal9122/leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [3870-count-commas-in-range](https://github.com/Kunal9122/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
