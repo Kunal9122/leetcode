@@ -126,6 +126,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/Kunal9122/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Kunal9122/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Kunal9122/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@
 | [0013-roman-to-integer](https://github.com/Kunal9122/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/Kunal9122/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kunal9122/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Kunal9122/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Kunal9122/leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Kunal9122/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Backtracking
@@ -274,6 +276,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Kunal9122/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Kunal9122/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
