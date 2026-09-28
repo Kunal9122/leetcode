@@ -11,6 +11,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kunal9122/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0198-house-robber](https://github.com/Kunal9122/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal9122/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kunal9122/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0621-task-scheduler](https://github.com/Kunal9122/leetcode/tree/main/0621-task-scheduler/) | Medium |
@@ -128,6 +129,7 @@
 | [0064-minimum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Kunal9122/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kunal9122/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Kunal9122/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Kunal9122/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -175,6 +177,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kunal9122/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0752-open-the-lock](https://github.com/Kunal9122/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kunal9122/leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -286,4 +289,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Kunal9122/leetcode/tree/main/0062-unique-paths/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
