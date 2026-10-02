@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/Kunal9122/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0045-jump-game-ii](https://github.com/Kunal9122/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Kunal9122/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/Kunal9122/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kunal9122/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
