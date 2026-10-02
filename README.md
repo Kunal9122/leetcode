@@ -51,6 +51,7 @@
 | [0012-integer-to-roman](https://github.com/Kunal9122/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Kunal9122/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kunal9122/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0071-simplify-path](https://github.com/Kunal9122/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kunal9122/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kunal9122/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kunal9122/leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -257,6 +258,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Kunal9122/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kunal9122/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## DP on Trees
