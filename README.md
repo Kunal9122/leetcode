@@ -143,6 +143,7 @@
 | [0509-fibonacci-number](https://github.com/Kunal9122/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Kunal9122/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Kunal9122/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Kunal9122/leetcode/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
