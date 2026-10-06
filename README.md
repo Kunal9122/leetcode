@@ -27,6 +27,7 @@
 | [0752-open-the-lock](https://github.com/Kunal9122/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0896-monotonic-array](https://github.com/Kunal9122/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Kunal9122/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunal9122/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1652-defuse-the-bomb](https://github.com/Kunal9122/leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Kunal9122/leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -150,6 +151,7 @@
 | [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kunal9122/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Kunal9122/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Kunal9122/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Kunal9122/leetcode/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 ## Math
@@ -301,6 +303,7 @@
 | [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Kunal9122/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal9122/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
