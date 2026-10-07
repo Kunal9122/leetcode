@@ -21,6 +21,7 @@
 | [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal9122/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kunal9122/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0494-target-sum](https://github.com/Kunal9122/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0621-task-scheduler](https://github.com/Kunal9122/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kunal9122/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Kunal9122/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -149,6 +150,7 @@
 | [0213-house-robber-ii](https://github.com/Kunal9122/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/Kunal9122/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/Kunal9122/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kunal9122/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Kunal9122/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -171,6 +173,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kunal9122/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0077-combinations](https://github.com/Kunal9122/leetcode/tree/main/0077-combinations/) | Medium |
+| [0494-target-sum](https://github.com/Kunal9122/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,8 +320,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/Kunal9122/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Kunal9122/leetcode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
