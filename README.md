@@ -18,6 +18,7 @@
 | [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Kunal9122/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/Kunal9122/leetcode/tree/main/0221-maximal-square/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Kunal9122/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal9122/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kunal9122/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -71,6 +72,7 @@
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal9122/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Kunal9122/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Kunal9122/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal9122/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kunal9122/leetcode/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 ## Greedy
@@ -150,6 +152,7 @@
 | [0198-house-robber](https://github.com/Kunal9122/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Kunal9122/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/Kunal9122/leetcode/tree/main/0221-maximal-square/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Kunal9122/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Kunal9122/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/Kunal9122/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kunal9122/leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -335,4 +338,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Kunal9122/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Kunal9122/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
