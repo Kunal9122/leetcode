@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Kunal9122/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0045-jump-game-ii](https://github.com/Kunal9122/leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/Kunal9122/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Kunal9122/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/Kunal9122/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kunal9122/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -170,6 +171,7 @@
 | [0009-palindrome-number](https://github.com/Kunal9122/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Kunal9122/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Kunal9122/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/Kunal9122/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Kunal9122/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kunal9122/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Kunal9122/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -308,6 +310,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Kunal9122/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kunal9122/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
