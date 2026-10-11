@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/Kunal9122/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0045-jump-game-ii](https://github.com/Kunal9122/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Kunal9122/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/Kunal9122/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Kunal9122/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/Kunal9122/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kunal9122/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -181,6 +182,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kunal9122/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0051-n-queens](https://github.com/Kunal9122/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/Kunal9122/leetcode/tree/main/0077-combinations/) | Medium |
 | [0494-target-sum](https://github.com/Kunal9122/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Linked List
@@ -347,4 +349,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Kunal9122/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Kunal9122/leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
