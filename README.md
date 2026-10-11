@@ -183,6 +183,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kunal9122/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0051-n-queens](https://github.com/Kunal9122/leetcode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Kunal9122/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/Kunal9122/leetcode/tree/main/0077-combinations/) | Medium |
 | [0494-target-sum](https://github.com/Kunal9122/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Linked List
@@ -353,4 +354,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Kunal9122/leetcode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Kunal9122/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
