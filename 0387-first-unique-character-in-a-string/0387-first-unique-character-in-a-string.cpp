@@ -1,14 +1,13 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        map<char,int>p;
+        vector<int>v(26,0);
         for(int i=0;i<s.size();i++){
-            p[s[i]]++;
+            v[s[i]-'a']++;
         }
         for(int i=0;i<s.size();i++){
-            int c=p[s[i]];
-            if(c==1) return i;
-        }  
+            if(v[s[i]-'a']==1) return i;
+        }
         return -1;
     }
 };
