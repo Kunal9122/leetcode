@@ -75,6 +75,7 @@
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal9122/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Kunal9122/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0278-first-bad-version](https://github.com/Kunal9122/leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Kunal9122/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal9122/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kunal9122/leetcode/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
@@ -355,4 +356,8 @@
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Kunal9122/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Kunal9122/leetcode/tree/main/0052-n-queens-ii/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Kunal9122/leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
