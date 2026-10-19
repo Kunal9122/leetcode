@@ -13,6 +13,7 @@
 | [0063-unique-paths-ii](https://github.com/Kunal9122/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kunal9122/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Kunal9122/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal9122/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/Kunal9122/leetcode/tree/main/0120-triangle/) | Medium |
@@ -74,6 +75,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Kunal9122/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal9122/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Kunal9122/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0278-first-bad-version](https://github.com/Kunal9122/leetcode/tree/main/0278-first-bad-version/) | Easy |
@@ -320,6 +322,7 @@
 | [0063-unique-paths-ii](https://github.com/Kunal9122/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kunal9122/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Kunal9122/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Kunal9122/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal9122/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
