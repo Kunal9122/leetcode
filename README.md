@@ -139,6 +139,7 @@
 | [0626-exchange-seats](https://github.com/Kunal9122/leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Kunal9122/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Kunal9122/leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Kunal9122/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Kunal9122/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
