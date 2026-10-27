@@ -17,6 +17,7 @@
 | [0079-word-search](https://github.com/Kunal9122/leetcode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunal9122/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal9122/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Kunal9122/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/Kunal9122/leetcode/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kunal9122/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -161,6 +162,7 @@
 | [0063-unique-paths-ii](https://github.com/Kunal9122/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Kunal9122/leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Kunal9122/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/Kunal9122/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0120-triangle](https://github.com/Kunal9122/leetcode/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal9122/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -300,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Kunal9122/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Kunal9122/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kunal9122/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal9122/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## DP on Trees
@@ -332,6 +335,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kunal9122/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Kunal9122/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Kunal9122/leetcode/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Kunal9122/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/Kunal9122/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Kunal9122/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal9122/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -375,4 +379,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Kunal9122/leetcode/tree/main/0278-first-bad-version/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/Kunal9122/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
